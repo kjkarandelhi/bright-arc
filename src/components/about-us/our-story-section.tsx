@@ -11,18 +11,12 @@ export default function OurStorySection() {
             </h2>
             <div className="space-y-4 text-gray-600 leading-relaxed">
               <p>
-                Lorem ipsum gypsum es simplemente el texto de relleno de las
-                imprentas y archivos de texto. Lorem Ipsum ha sido el texto de
-                relleno estándar de las industrias desde el año 1500, cuando un
-                impresor (N. del T. persona que se dedica a la imprenta)
-                desconocido usó una galería de textos y los mezcló de tal manera
-                que logró hacer un libro de textos especimen.
+                Founded in 2022, BrightArc is a boutique content and brand storytelling studio supported by ISB trained marketers and consultants. We help brands turn ideas, insights, and experiences into powerful narratives that elevate both brand presence and business outcomes. Our work blends consulting grade strategic thinking, deep research across industry, competitors, and audiences, premium CXO level writing, and brand first storytelling that balances emotion with structure and insight.
+
               </p>
               <p>
-                exto de relleno en documentos electrónicos, quedando
-                esencialmente igual al original. Fue popularizado en los 60s con
-                la creación de las hojas "Letraset", las cuales contenían
-                pasajes de Lorem Ipsum, y más recientemente
+                Every BrightArc engagement is founder led and high touch, combining ISB level thinking with exceptional writing and fast yet uncompromising execution. Every piece we create is 100 percent original, deeply researched, and tailored to your industry and brand voice. We adapt to your tone and never impose ours, which is why leaders across sectors trust us to shape their voice, sharpen their positioning, and tell stories that truly matter.
+
               </p>
             </div>
           </div>
