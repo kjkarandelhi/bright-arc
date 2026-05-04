@@ -11,12 +11,24 @@ export default function OurStorySection() {
             </h2>
             <div className="space-y-4 text-gray-600 leading-relaxed">
               <p>
-                Founded in 2022, BrightArc is a boutique content and brand storytelling studio supported by ISB trained marketers and consultants. We help brands turn ideas, insights, and experiences into powerful narratives that elevate both brand presence and business outcomes. Our work blends consulting grade strategic thinking, deep research across industry, competitors, and audiences, premium CXO level writing, and brand first storytelling that balances emotion with structure and insight.
-
+                Founded in 2022, BrightArc is a boutique content and brand
+                storytelling studio supported by ISB-trained marketers and
+                consultants. We help brands turn ideas, insights, and
+                experiences into powerful narratives that elevate both brand
+                presence and business outcomes.
               </p>
               <p>
-                Every BrightArc engagement is founder led and high touch, combining ISB level thinking with exceptional writing and fast yet uncompromising execution. Every piece we create is 100 percent original, deeply researched, and tailored to your industry and brand voice. We adapt to your tone and never impose ours, which is why leaders across sectors trust us to shape their voice, sharpen their positioning, and tell stories that truly matter.
-
+                Our work blends consulting-grade strategic thinking, deep
+                research across industries, competitors, and audiences, premium
+                CXO-level writing, and brand-first storytelling that balances
+                emotion with structure and insight.
+              </p>
+              <p>
+                Every BrightArc engagement is founder-led and high-touch,
+                combining ISB-level thinking with exceptional writing and fast
+                yet uncompromising execution. Every piece we create is fully
+                original, deeply researched, and tailored to your industry and
+                brand voice.
               </p>
             </div>
           </div>
